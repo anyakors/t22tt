@@ -1,0 +1,91 @@
+set echo=false end
+
+! G1   G13   G19   G7
+! ===================
+
+assi (resi    1 and name H21  and segi DNA1)  
+     (resi   13 and name N7   and segi DNA1) 2.00 0.20 0.20
+assi (resi    1 and name N2   and segi DNA1)
+     (resi   13 and name N7   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi    1 and name H1   and segi DNA1)
+     (resi   13 and name O6   and segi DNA1) 2.00 0.20 0.20
+assi (resi    1 and name N1   and segi DNA1)
+     (resi   13 and name O6   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi   13 and name H21  and segi DNA1)
+     (resi   19 and name N7   and segi DNA1) 2.00 0.20 0.20
+assi (resi   13 and name N2   and segi DNA1)
+     (resi   19 and name N7   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi   13 and name H1   and segi DNA1)
+     (resi   19 and name O6   and segi DNA1) 2.00 0.20 0.20
+assi (resi   13 and name N1   and segi DNA1)
+     (resi   19 and name O6   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi   19 and name H21  and segi DNA1)
+     (resi    7 and name N7   and segi DNA1) 2.00 0.20 0.20
+assi (resi   19 and name N2   and segi DNA1)
+     (resi    7 and name N7   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi   19 and name H1   and segi DNA1)
+     (resi    7 and name O6   and segi DNA1) 2.00 0.20 0.20
+assi (resi   19 and name N1   and segi DNA1)
+     (resi    7 and name O6   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi    7 and name H21  and segi DNA1)
+     (resi    1 and name N7   and segi DNA1) 2.00 0.20 0.20
+assi (resi    7 and name N2   and segi DNA1)
+     (resi    1 and name N7   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi    7 and name H1   and segi DNA1)
+     (resi    1 and name O6   and segi DNA1) 2.00 0.20 0.20
+assi (resi    7 and name N1   and segi DNA1)
+     (resi    1 and name O6   and segi DNA1) 2.90 0.30 0.30
+
+
+! G2   G6   G18   G14
+! ====================
+
+assi (resi    2 and name H21  and segi DNA1)
+     (resi    6 and name N7   and segi DNA1) 2.00 0.20 0.20
+assi (resi    2 and name N2   and segi DNA1)
+     (resi    6 and name N7   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi    2 and name H1   and segi DNA1)
+     (resi    6 and name O6   and segi DNA1) 2.00 0.20 0.20
+assi (resi    2 and name N1   and segi DNA1)
+     (resi    6 and name O6   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi    6 and name H21  and segi DNA1)
+     (resi   18 and name N7   and segi DNA1) 2.00 0.20 0.20
+assi (resi    6 and name N2   and segi DNA1)
+     (resi   18 and name N7   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi    6 and name H1   and segi DNA1)
+     (resi   18 and name O6   and segi DNA1) 2.00 0.20 0.20
+assi (resi    6 and name N1   and segi DNA1)
+     (resi   18 and name O6   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi   18 and name H21  and segi DNA1)
+     (resi   14 and name N7   and segi DNA1) 2.00 0.20 0.20
+assi (resi   18 and name N2   and segi DNA1)
+     (resi   14 and name N7   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi   18 and name H1   and segi DNA1)
+     (resi   14 and name O6   and segi DNA1) 2.00 0.20 0.20
+assi (resi   18 and name N1   and segi DNA1)
+     (resi   14 and name O6   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi   14 and name H21  and segi DNA1)
+     (resi    2 and name N7   and segi DNA1) 2.00 0.20 0.20
+assi (resi   14 and name N2   and segi DNA1)
+     (resi    2 and name N7   and segi DNA1) 2.90 0.30 0.30
+
+assi (resi   14 and name H1   and segi DNA1)
+     (resi    2 and name O6   and segi DNA1) 2.00 0.20 0.20
+assi (resi   14 and name N1   and segi DNA1)
+     (resi    2 and name O6   and segi DNA1) 2.90 0.30 0.30
+
+
+set echo=true end

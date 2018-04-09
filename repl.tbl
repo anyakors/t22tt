@@ -1,0 +1,18 @@
+set echo=false end
+
+{
+assi  (resi  19  and name  H2'   and segi DNA1)
+      (resi  24  and name  H8    and segi DNA1)  8.00  3.80  72.00
+assi  (resi  20  and name  H2'   and segi DNA1)
+      (resi  23  and name  H8    and segi DNA1)  8.00  3.80  72.00
+
+
+assi  (resi   2  and name  H6    and segi DNA1)
+      (resi   3  and name  H8    and segi DNA1)  6.00  1.50  1.50  !    W
+assi  (resi  12  and name  H4'   and segi DNA1)
+      (resi  13  and name  H2    and segi DNA1)  6.00  1.50  1.50  !    W
+assi  (resi  13  and name  H2    and segi DNA1)
+      (resi  14  and name  C7    and segi DNA1)  6.00  1.50  2.00  !    W
+}
+
+set echo=true end

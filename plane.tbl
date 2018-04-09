@@ -1,0 +1,18 @@
+ vector iden (store1) (name P or name O1P or name O2P or name O5' or name H5T or
+                       name H1'  or name H2' or name H3'  or name H4' or name H5' or
+                       name H2'' or name H5'' or name O3' or name C2' or name C3' or
+                       name C4' or name C5' or name O4' or name H3T )
+
+ restraints planar
+
+   group selection=((not (store1) and residue 1 and segi DNA1)
+                 or (not (store1) and residue 13 and segi DNA1)
+                 or (not (store1) and residue 19 and segi DNA1)
+                 or (not (store1) and residue 7 and segi DNA1)) weight = 2.0 end
+
+   group selection=((not (store1) and residue 2 and segi DNA1)
+                 or (not (store1) and residue 6 and segi DNA1)
+                 or (not (store1) and residue 18 and segi DNA1)
+                 or (not (store1) and residue 14 and segi DNA1)) weight = 2.0 end
+
+ end
