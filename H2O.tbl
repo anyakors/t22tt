@@ -39,7 +39,6 @@ assign (residue 12 and name H2'' and segi DNA1) (residue 13 and name H1 and segi
 assign (residue 12 and name H8 and segi DNA1) (residue 13 and name H1 and segi DNA1) 4.10  1.20  1.20 
 
 assign (residue 13 and name H8 and segi DNA1) (residue 1 and name H1 and segi DNA1) 3.60  0.90  0.90 
-assign (residue 13 and name H8 and segi DNA1) (residue 7 and name H1 and segi DNA1) 5.50  1.70  1.70 
 
 assign (residue 14 and name H8 and segi DNA1) (residue 18 and name H1 and segi DNA1) 5.50  1.70  1.70 
 

@@ -26,7 +26,7 @@ assign (residue 2 and name H2'' and segi DNA1) (residue 2 and name H1' and segi 
 assign (residue 2 and name H2'' and segi DNA1) (residue 2 and name H3' and segi DNA1) 3.60 0.90 0.90
 assign (residue 2 and name H2'' and segi DNA1) (residue 2 and name H8 and segi DNA1) 3.60 0.90 0.90
 assign (residue 2 and name H5' and segi DNA1) (residue 1 and name H3' and segi DNA1) 5.50 1.70 1.70
-assign (residue 2 and name H5' and segi DNA1) (residue 2 and name H4' and segi DNA1) 5.50 1.70 1.70
+assign (residue 2 and name H5' and segi DNA1) (residue 2 and name H4' and segi DNA1) 2.60 0.80 0.80
 assign (residue 2 and name H5'' and segi DNA1) (residue 2 and name H3' and segi DNA1) 5.50 1.70 1.70
 
 assign (residue 3 and name C7 and segi DNA1) (residue 1 and name H8 and segi DNA1) 5.50 1.70 1.70
@@ -37,7 +37,7 @@ assign (residue 3 and name C7 and segi DNA1) (residue 5 and name H1' and segi DN
 assign (residue 3 and name H1' and segi DNA1) (residue 3 and name H6 and segi DNA1) 4.10 1.20 1.20
 assign (residue 3 and name H1' and segi DNA1) (residue 4 and name H6 and segi DNA1) 5.50 1.70 1.70
 assign (residue 3 and name H2' and segi DNA1) (residue 3 and name H1' and segi DNA1) 2.60 0.80 0.80
-assign (residue 3 and name H2' and segi DNA1) (residue 3 and name H6 and segi DNA1) 3.60 0.90 0.90
+assign (residue 3 and name H2' and segi DNA1) (residue 3 and name H6 and segi DNA1) 2.60 0.80 0.80
 assign (residue 3 and name H2' and segi DNA1) (residue 4 and name H6 and segi DNA1) 4.10 1.20 1.20
 assign (residue 3 and name H2'' and segi DNA1) (residue 3 and name H1' and segi DNA1) 2.60 0.80 0.80
 assign (residue 3 and name H2'' and segi DNA1) (residue 3 and name H6 and segi DNA1) 3.60 0.90 0.90
@@ -109,7 +109,7 @@ assign (residue 8 and name H2'' and segi DNA1) (residue 8 and name H8 and segi D
 assign (residue 8 and name H3' and segi DNA1) (residue 8 and name H1' and segi DNA1) 4.10 1.20 1.20
 assign (residue 8 and name H4' and segi DNA1) (residue 8 and name H1' and segi DNA1) 4.10 1.20 1.20
 assign (residue 8 and name H4' and segi DNA1) (residue 9 and name H6 and segi DNA1) 5.50 1.70 1.70
-assign (residue 8 and name H5' and segi DNA1) (residue 8 and name H4' and segi DNA1) 5.50 1.70 1.70
+assign (residue 8 and name H5' and segi DNA1) (residue 8 and name H4' and segi DNA1) 2.60 0.80 0.80
 assign (residue 8 and name H5'' and segi DNA1) (residue 8 and name H3' and segi DNA1) 5.50 1.70 1.70
 
 assign (residue 9 and name C7 and segi DNA1) (residue 8 and name H3' and segi DNA1) 5.50 1.70 1.70
@@ -208,7 +208,7 @@ assign (residue 14 and name H4' and segi DNA1) (residue 14 and name H3' and segi
 assign (residue 14 and name H4' and segi DNA1) (residue 17 and name H8 and segi DNA1) 5.50 1.70 1.70
 assign (residue 14 and name H4' and segi DNA1) (residue 15 and name H6 and segi DNA1) 5.50 1.70 1.70
 assign (residue 14 and name H4' and segi DNA1) (residue 14 and name H8 and segi DNA1) 5.50 1.70 1.70
-assign (residue 14 and name H5'' and segi DNA1) (residue 14 and name H3' and segi DNA1) 5.50 1.70 1.70
+assign (residue 14 and name H5'' and segi DNA1) (residue 14 and name H3' and segi DNA1) 3.60 0.90 0.90
 
 assign (residue 15 and name C7 and segi DNA1) (residue 14 and name H3' and segi DNA1) 5.50 1.70 1.70
 assign (residue 15 and name C7 and segi DNA1) (residue 14 and name H4' and segi DNA1) 5.50 1.70 1.70
@@ -239,10 +239,10 @@ assign (residue 16 and name H4' and segi DNA1) (residue 16 and name H6 and segi 
 assign (residue 16 and name H4' and segi DNA1) (residue 16 and name H1' and segi DNA1) 4.10 1.20 1.20
 assign (residue 16 and name H4' and segi DNA1) (residue 17 and name H8 and segi DNA1) 5.50 1.70 1.70
 assign (residue 16 and name H4' and segi DNA1) (residue 15 and name H6 and segi DNA1) 5.50 1.70 1.70
-assign (residue 16 and name H5' and segi DNA1) (residue 16 and name H3' and segi DNA1) 5.50 1.70 1.70
+assign (residue 16 and name H5' and segi DNA1) (residue 16 and name H3' and segi DNA1) 2.60 0.80 0.80
 assign (residue 16 and name H5'' and segi DNA1) (residue 16 and name H3' and segi DNA1) 5.50 1.70 1.70
-assign (residue 16 and name H5' and segi DNA1) (residue 16 and name H4' and segi DNA1) 5.50 1.70 1.70
-assign (residue 16 and name H5'' and segi DNA1) (residue 16 and name H4' and segi DNA1) 5.50 1.70 1.70
+assign (residue 16 and name H5' and segi DNA1) (residue 16 and name H4' and segi DNA1) 3.60 0.80 0.80
+assign (residue 16 and name H5'' and segi DNA1) (residue 16 and name H4' and segi DNA1) 2.60 0.80 0.80
 
 assign (residue 17 and name H1' and segi DNA1) (residue 17 and name H8 and segi DNA1) 4.10 1.20 1.20
 assign (residue 17 and name H2' and segi DNA1) (residue 17 and name H1' and segi DNA1) 2.60 0.80 0.80
@@ -297,7 +297,7 @@ assign (residue 20 and name H2'' and segi DNA1) (residue 21 and name H6 and segi
 assign (residue 20 and name H3' and segi DNA1) (residue 20 and name H1' and segi DNA1) 4.10 1.20 1.20
 assign (residue 20 and name H4' and segi DNA1) (residue 20 and name H1' and segi DNA1) 3.60 0.90 0.90
 assign (residue 20 and name H4' and segi DNA1) (residue 20 and name H8 and segi DNA1) 5.50 1.70 1.70
-assign (residue 20 and name H5' and segi DNA1) (residue 20 and name H4' and segi DNA1) 5.50 1.70 1.70
+assign (residue 20 and name H5' and segi DNA1) (residue 20 and name H4' and segi DNA1) 2.60 0.80 0.80
 
 assign (residue 21 and name C7 and segi DNA1) (residue 20 and name H8 and segi DNA1) 5.50 1.70 1.70
 assign (residue 21 and name C7 and segi DNA1) (residue 20 and name H3' and segi DNA1) 5.50 1.70 1.70
